@@ -1,0 +1,5 @@
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+'self-driving-car-sim_ver3_for_git/*' filter=lfs diff=lfs merge=lfs -text
